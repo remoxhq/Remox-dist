@@ -1,0 +1,2 @@
+(this.webpackJsonpremox=this.webpackJsonpremox||[]).push([[18],{1617:function(e,n,t){"use strict";t.r(n);var r=t(6);n.default=function(){return Object(r.jsx)(r.Fragment,{children:"Spending"})}}}]);
+//# sourceMappingURL=18.f838ba0d.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/dashboard/settings/spending.tsx"],"names":["SpendingSetting"],"mappings":"oHAQeA,UAPS,WAEpB,OAAO","file":"static/js/18.f838ba0d.chunk.js","sourcesContent":["\nconst SpendingSetting = ()=>{\n\n    return <>\n    Spending\n    </>\n}\n\nexport default SpendingSetting;"],"sourceRoot":""}
